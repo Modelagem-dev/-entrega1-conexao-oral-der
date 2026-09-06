@@ -28,7 +28,7 @@
 ---
 
 ## 2. Processos de Negócio
-*(vale 10% — Dimensão Procedimental)*
+
 
 ### 2.1 Principais processos mapeados
 
