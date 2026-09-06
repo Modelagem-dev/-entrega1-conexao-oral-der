@@ -289,8 +289,6 @@ O DER preliminar está anexado ao repositório em `der/DER_conexao_oral.png`, re
 
 O diagrama já contempla potencial de escalabilidade e integração para as próximas etapas do projeto — por exemplo, novas entidades como "Estoque de Materiais" ou "Funcionário" (recepção, auxiliares, limpeza) podem ser incorporadas ao modelo sem necessidade de reestruturação das entidades já existentes.
 
-> **Observação:** este é o DER conceitual preliminar produzido nesta etapa. Recomenda-se revisão/validação em ferramenta de modelagem (ex.: draw.io, brModelo) antes da entrega final, e ajuste fino de notação conforme o padrão exigido pela disciplina (Chen, Crow's Foot, etc.).
-
 ---
 
 ## 8. Justificativa Técnica
